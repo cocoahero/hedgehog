@@ -1,5 +1,5 @@
 # Hedgehog
-A highly experimental implementation of the tail command, written in Swift. It should absolutely not be used as a production replacement for the default `tail` command. 😅
+A highly experimental implementation of the tail command, written in Swift. It should absolutely not be used in a production environment. 😅
 
 ```
 USAGE: hedgehog [-n <n>] [--follow] --path <path>
